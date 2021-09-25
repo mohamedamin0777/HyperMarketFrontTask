@@ -1,0 +1,27 @@
+.navbar{
+    background: linear-gradient(to right, #111 70%, #eee);
+}
+section{
+    margin: 50px 0px;
+}
+.hr{
+    width: 40%;
+    height: 3px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+#about img{
+    border-radius: 20px;
+}
+ul li a{
+    color: grey;
+    font-size: 22px;
+}
+h2{
+    color: white;
+}
+.copyright-text{
+    color: grey;
+    font-size: 22px;
+}
